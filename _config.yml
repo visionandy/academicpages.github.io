@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Andy Wang"
   avatar           : "profile.png"
-  bio              : "Head of Deep Learning Group in IBM GCDO at SVL"
-  location         : "Bay Area, CA"
+  bio              : "Head of Deep Learning Group in GCDO at IBM Silicon Valley Lab"
+  location         : "San Jose, CA"
   employer         :
-  pubmed           : "https://dblp.uni-trier.de/pers/hd/w/Wang_0006:Xiaolong"
+  dblp             : "https://dblp.uni-trier.de/pers/hd/w/Wang_0006:Xiaolong"
   googlescholar    : "https://scholar.google.com/citations?user=O5owaKwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Xiaolong_Wang26"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/andy-xiaolong-wang-0292aa27/"
+  linkedin         : "https://www.linkedin.com/in/andy-xiaolong-wang-0292aa27"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
