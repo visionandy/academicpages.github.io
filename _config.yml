@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Andy Wang"
   avatar           : "profile.png"
-  bio              : "Head of Deep Learning in IBM"
+  bio              : "Head of Deep Learning Group in IBM GCDO at SVL"
   location         : "Bay Area, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://dblp.uni-trier.de/pers/hd/w/Wang_0006:Xiaolong"
   googlescholar    : "https://scholar.google.com/citations?user=O5owaKwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
