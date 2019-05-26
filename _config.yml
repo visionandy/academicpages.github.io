@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andy Wang"
-  avatar           : "andy_sea.jpg"
+  avatar           : #"andy_sea.jpg"
   bio              : "Head of Deep Learning Group in GCDO at IBM Silicon Valley Lab"
   location         : "San Jose, CA"
   employer         :
