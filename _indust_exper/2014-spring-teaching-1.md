@@ -1,14 +1,13 @@
 ---
-title: "Samsung Life"
+title: "Samsung"
 collection: indust_exper
 type: "Undergraduate course"
 permalink: /indust_exper/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2015-09 - 2018-06
 location: "San Jose, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
