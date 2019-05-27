@@ -2,7 +2,7 @@
 title: "MICIK: MIning Cross-Layer Inherent Similarity Knowledge for Deep Model Compression"
 collection: publications
 permalink: /publication/jie1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '1st across layers based Deep model compression work'
 date: 2019-2-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/1902.00918'
