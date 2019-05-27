@@ -4,7 +4,7 @@ collection: teaching
 #type: "San Jose, CA"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Samsung Research America(SRA)"
-date: 2015-09 to 2018-06
+date: 2015-09
 location: "Mountain View, CA"
 ---
 

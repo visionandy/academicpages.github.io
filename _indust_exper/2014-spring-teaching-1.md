@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
+collection: indust_exper
 type: "Undergraduate course"
 permalink: /indust_exper/2014-spring-teaching-1
 venue: "University 1, Department"
