@@ -186,7 +186,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  indust_exper:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -208,6 +210,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _industrial experience
+  - scope:
+      path: ""
+      type: indust_exper
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
   # _teaching
   - scope:
       path: ""
