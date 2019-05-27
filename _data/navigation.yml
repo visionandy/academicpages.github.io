@@ -7,7 +7,7 @@ main:
     url: /talks/    
 
   - title: "Industrial Experience"
-    url: /talks/ #/indust_exper/    
+    url: /indust_exper/ #/indust_exper/    
     
   - title: "Portfolio"
     url: /portfolio/
