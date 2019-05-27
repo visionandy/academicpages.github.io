@@ -8,7 +8,7 @@ venue: "University 1, Department"
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Time Period: 2018-06 to present
 
 Heading 1
 ======
