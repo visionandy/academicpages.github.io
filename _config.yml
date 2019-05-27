@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andy Wang"
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Andy Wang"
 description              : &description "personal description"
