@@ -1,10 +1,10 @@
 ---
 title: "Head of Deep Learning R&D Group in IBM (06/2018-present)"
 collection: teaching
-#type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IBM"
-date: 2018-08 to present
+date: 2018-08
 location: "San Jose, CA, USA"
 ---
 
