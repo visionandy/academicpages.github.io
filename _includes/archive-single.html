@@ -56,12 +56,12 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
+    {% if post.paperurl and post.videourl %}
+    <p> Download <a href=" {{ post.paperurl }} "></a> Video <a href=" {{ post.videourl }} "><u>demo</u></a></p>
     {% elsif post.paperurl %}
-      <p>Downloadhah <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% elsif post.videourl %}
       <p>Video <a href=" {{ post.videourl }} "><u>demo</u></a></p>
-
-
     {% endif %}
 
   </article>
