@@ -3,7 +3,7 @@ title: "Talking Face Generation by Conditional Recurrent Adversarial Network"
 collection: publications
 permalink: /publication/susan
 excerpt: 'About talking face generation framework, our 1st version is completed in 2017 and released the whole framework to public in 2018. We released the 2nd version in 2019.'
-date: 2019-5
+#date: 2019-5
 venue: 'IJCAI'
 paperurl: 'https://arxiv.org/pdf/1804.04786.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
