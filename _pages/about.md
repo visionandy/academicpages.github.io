@@ -28,16 +28,13 @@ Lead deep learning & computer vision research and engineering team at AI R&D cen
 One recent work: DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices has been reported by several popular Medias including esestech.com, sohu.com, sina.com, ifeng.com, etc. (The only public reported research work of SRA from 2015.)
 
 
-Research Intern in IBM Research (05/2015-09/2015)
+Research Intern in IBM Thomas J Watson Research Center (05/2015-09/2015)
 ------
-Worked in deep learning based facial image analysis and image retrieval in IBM Thomas J Watson Research Center, Yorktown Heights, NY. 
+Worked in deep learning based facial image analysis and image retrieval.
 
 
 Research Assistant in University of Delaware (09/2012-05/2015)
 ------
 My research interest was to solve real-world perception problems. These problems include face image analysis (face recognition, gender classification, kinship verification and age estimation), attributes perception, object classification, object detection, social relationship prediction, human traits recognition, document categorization etc. I was also interested in using computational learning technologies for medical image analysis and bioinformatics, etc. Eleven first author papers were published during this period. 
 
-
-For more info
-------
 
