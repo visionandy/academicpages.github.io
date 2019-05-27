@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "IBM"
 collection: indust_exper
 type: "Workshop"
 permalink: /indust_exper/2015-spring-teaching-1
