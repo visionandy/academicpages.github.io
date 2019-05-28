@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Publications(* indicates corresponding author)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(* indicates corresponding author)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
