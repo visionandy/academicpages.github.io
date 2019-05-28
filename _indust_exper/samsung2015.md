@@ -2,7 +2,7 @@
 title: "Samsung"
 collection: indust_exper
 type: "Undergraduate course"
-permalink: /indust_exper/samsung
+permalink: /indust_exper/samsung2015
 venue: "University 1, Department"
 #date: 2015-09 - 2018-06
 location: "San Jose, CA"
