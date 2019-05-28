@@ -57,9 +57,9 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl and post.videourl %}
-    <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a>   <a href=" {{ post.videourl }} "><u>Video demo</u></a></p>
+    <p>Link <a href=" {{ post.paperurl }} "><u>paper</u></a>   <a href=" {{ post.videourl }} "><u>demo</u></a></p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Link <a href=" {{ post.paperurl }} "><u>paper</u></a></p>
     {% elsif post.videourl %}
       <p>Video <a href=" {{ post.videourl }} "><u>demo</u></a></p>
     {% endif %}
