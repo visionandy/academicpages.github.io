@@ -1,15 +1,15 @@
 ---
-title: "Dynamically Hierarchy Revolution: DirNet for Compressing Recurrent Neural Network on Mobile Devices"
+title: "DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices"
 collection: publications
-permalink: /publication/jie2018
-excerpt: 'Model compression for recurrent neural network'
+permalink: /publication/dawei2018
+excerpt: 'Model compression for convolutional neural network'
 date: 2018-2-01
-author: Jie Zhang, Xiaolong Wang*, Dawei Li, Yalin Wang 
-venue: 'IJCAI(oral)'
-paperurl: 'https://arxiv.org/pdf/1806.01248'
-videourl: 'https://www.youtube.com/watch?v=KjdkchqlQOU&feature=youtu.be'
+author: Dawei Li, Xiaolong Wang*, Deguang Kong 
+venue: 'AAAI(oral)'
+paperurl: 'https://arxiv.org/pdf/1708.04728'
+#videourl: 'https://www.youtube.com/watch?v=KjdkchqlQOU&feature=youtu.be'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Recurrent neural networks (RNNs) achieve cutting-edge performance on a variety of problems. However, due to their high computational and memory demands, deploying RNNs on resource constrained mobile devices is a challenging task. To guarantee minimum accuracy loss with higher compression rate and driven by the mobile resource requirement, we introduce a novel model compression approach DirNet based on an optimized fast dictionary learning algorithm, which 1) dynamically mines the dictionary atoms of the projection dictionary matrix within layer to adjust the compression rate 2) adaptively changes the sparsity of sparse codes cross the hierarchical layers. Experimental results on language model and an ASR model trained with a 1000h speech dataset demonstrate that our method significantly outperforms prior approaches. Evaluated on off-the-shelf mobile devices, we are able to reduce the size of original model by eight times with real-time model inference and negligible accuracy loss. 
-[Download paper here](https://arxiv.org/pdf/1806.01248)
+[Download paper here](https://arxiv.org/pdf/1708.04728)
 
