@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/heming2018
 excerpt: 'Real time unconstrained face detection on mobile.'
 date: 2018-7-01
-author: Heming Zhang, Xiaolong Wang*, Jingwen Zhu, C.-C. Jay Kuo*
+author: Heming Zhang, Xiaolong Wang*, Jingwen Zhu, C.-C. Jay Kuo
 venue: 'ICIP'
 paperurl: 'https://arxiv.org/abs/1904.12094'
 #videourl: 'https://www.youtube.com/watch?v=KjdkchqlQOU&feature=youtu.be'
