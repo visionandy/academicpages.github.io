@@ -2,7 +2,7 @@
 title: "Talking Face Generation by Conditional Recurrent Adversarial Network"
 collection: publications
 permalink: /publication/susan
-excerpt: 'About talking face generation framework, our first version is completed in 2017 and public the whole framework in 2018. We will release the second version soon.'
+excerpt: 'About talking face generation framework, we completed the first version in 2017.'
 author: Yang Sun, Jingwen Zhu, Dawei Li, Xiaolong Wang*, Hairong Li 
 date: 2019-5-16
 venue: 'IJCAI'

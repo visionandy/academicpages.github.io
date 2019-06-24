@@ -2,7 +2,7 @@
 title: "DeepRebirth: Accelerating Deep Neural Network Execution on Mobile Devices"
 collection: publications
 permalink: /publication/dawei2018
-excerpt: 'Model compression for convolutional neural network. We started the project in 2016, finished the pipeline in 2017'
+excerpt: 'We completed the first pipeline in 2016. THis is one of the pioneers in model compression works.'
 date: 2018-2-01
 author: Dawei Li, Xiaolong Wang*, Deguang Kong 
 venue: 'AAAI(oral)'

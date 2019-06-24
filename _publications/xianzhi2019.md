@@ -2,7 +2,7 @@
 title: "Boundary-sensitive Network for Portrait Segmentation"
 collection: publications
 permalink: /publication/xianzhi2019
-excerpt: 'Focusing on the pain part of portrait segmentation, we build an end-to-end solution and obtain more realistic results, especially on the object boundary.'
+excerpt: 'Focusing on the most challenging part of portrait segmentation, we build an end-to-end solution and obtain more realistic results, especially on the object boundary.'
 date: 2019-5-01
 author: Xianzhi Du, Xiaolong Wang*, Dawei Li, Jingwen Zhu, Serafettin Tasci, Cameron Upright, Stephen Walsh, Larry Davis
 venue: 'FG(oral)'
