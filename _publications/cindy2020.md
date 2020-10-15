@@ -3,7 +3,7 @@ title: "Continual Learning Long Short Term Memory"
 collection: publications
 permalink: /publication/cindy2020
 excerpt: 'This is one of the pioneers in continual learning for NLP related works via recurrent neural networks.'
-date: 2020-09
+date: 2020-9-6
 author: Xin Guo, Yu Tian, Qinghan Xue, Panos Lampropoulos, Steven Eliuk, Kenneth Barner and Xiaolong Wang*
 venue: 'EMNLP(findings)'
 #paperurl: 'https://arxiv.org/pdf/1708.04728'
